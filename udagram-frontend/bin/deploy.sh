@@ -1,1 +1,0 @@
-aws s3 cp --recursive --acl public-read ./www s3://udagram-9798-6061-0471/
