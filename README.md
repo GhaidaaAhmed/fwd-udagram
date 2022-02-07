@@ -1,4 +1,4 @@
-![example branch parameter](https://github.com/GhaidaaAhmed/fwd-udagram/actions/workflows/config.yml/badge.svg)
+(https://github.com/GhaidaaAhmed/fwd-udagram/actions/workflows/config.yml/badge.svg)
 
 # Udagram
 
