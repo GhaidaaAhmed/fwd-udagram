@@ -1,7 +1,7 @@
 
 [![CircleCI](https://circleci.com/gh/GhaidaaAhmed/fwd-udagram/tree/main.svg?style=svg)](https://circleci.com/gh/GhaidaaAhmed/fwd-udagram/tree/main)
 
-Open[Udagram](http://udagram-9798-6061-0471.s3-website-us-east-1.amazonaws.com/home).
+Open [Udagram](http://udagram-9798-6061-0471.s3-website-us-east-1.amazonaws.com).
 ![Udagram](/images/udagram-home.png "Udagram")
 
 ## Diagrams
@@ -22,8 +22,8 @@ Open[Udagram](http://udagram-9798-6061-0471.s3-website-us-east-1.amazonaws.com/h
 
 ### Circleci
 
-![circleci-Build](/images/circleci-build.png "circleci-Build")
-![circleci-Env](/images/circleci-env.png "circleci-Env")
+* ![circleci-Build](/images/circleci-build.png "circleci-Build")
+* ![circleci-Env](/images/circleci-env.png "circleci-Env")
 
 # Udagram
 
