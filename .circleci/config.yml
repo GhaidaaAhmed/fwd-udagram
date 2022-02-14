@@ -36,3 +36,12 @@ jobs:
           name: Deploy Api
           command: |
             npm run backend:deploy
+
+workflows:
+    build:
+      jobs:
+        - build:
+            filters:
+              branches:
+                only:
+                  - main
